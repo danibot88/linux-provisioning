@@ -1,0 +1,11 @@
+# Arquivos temporarios de editores
+*.swp
+*.swo
+*~
+
+# Arquivos de log
+*.log
+
+# Arquivos locais com senhas e credenciais
+.env
+*.key
